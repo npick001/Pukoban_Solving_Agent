@@ -25,7 +25,7 @@ public:
 	}
 	~Fringe() {}
 
-	void add(T* node) {
+	void push(T* node) {
 		#ifdef f_QUEUE
 		m_queue.push(node);
 		#endif // f_QUEUE

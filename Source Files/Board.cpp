@@ -57,11 +57,11 @@ void Board::parseFile(std::string filename)
 			m_gameState->storage_positions.push_back(char_number);
 		}
 		else if (current_char == Box) {
-			//m_gameState->board.push_back(Box);
+			m_gameState->board.push_back(Blank);
 			m_gameState->box_positions.push_back(char_number);
 		}
 		else if (current_char == Robot) {
-			//m_gameState->board.push_back(Robot);
+			m_gameState->board.push_back(Blank);
 			m_gameState->robot_position = char_number;
 		}
 		else if (current_char == Blank) {
@@ -78,10 +78,37 @@ void Board::parseFile(std::string filename)
 	}
 	board_height = char_number / board_width;
 	m_height = board_height;
+	m_gameState->board_width = board_width;
 
 	m_robot = new ProblemSolvingAgent(m_gameState);
 
 	printBoard();
+}
+
+GameState::GameState(GameState* other)
+{
+	for (int i = 0; i < other->board.size(); i++) {
+		board.push_back(other->board[i]);
+	}
+
+	for (int i = 0; i < other->box_positions.size(); i++) {
+		box_positions.push_back(other->box_positions[i]);
+	}
+
+	robot_position = other->robot_position;
+}
+
+GameState& GameState::operator=(const GameState& other)
+{
+	for (int i = 0; i < board.size(); i++) {
+		board[i] = other.board[i];
+	}
+
+	for (int i = 0; i < box_positions.size(); i++) {
+		box_positions[i] = other.box_positions[i];
+	}
+
+	robot_position = other.robot_position;
 }
 
 bool GameState::operator==(const GameState& other)

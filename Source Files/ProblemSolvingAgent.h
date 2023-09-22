@@ -1,5 +1,6 @@
 #pragma once
 #include "Board.h"
+#include "Fringe.h"
 class GameState;
 
 enum SearchAlgorithm {
@@ -27,8 +28,6 @@ class ProblemSolvingAgent
 public:
 	ProblemSolvingAgent(GameState* initial_state);
 	~ProblemSolvingAgent();
-
-	void setSearchAlgorithm(SearchAlgorithm algorithm);
 
 protected:
 	GameState* formulateGoalState(GameState* initial);
@@ -65,6 +64,7 @@ private:
 	// each action is applicable in given_state
 	std::vector<Action> ACTIONS(GameState* given_state);
 
+	bool is_valid(GameState* state);
 	bool visited(GameState* state);
 
 	bool m_isPushing;
@@ -79,7 +79,6 @@ private:
 	SearchAlgorithm m_searchingAlgorithm;
 
 	std::vector<GameState*> m_visitedStates;
-	std::vector<GameState*> m_notVisitedStates;
-
+	Fringe<GameState> m_fringe;
 };
 
