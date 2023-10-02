@@ -1,0 +1,4385 @@
+Solution path:
+Push_West
+OOOOOO
+OBR  O
+O BO O
+OO   O
+OOSS O
+OOOOOO
+
+Push_South
+OOOOOO
+OB   O
+O RO O
+OOB  O
+OOSS O
+OOOOOO
+
+Push_South
+OOOOOO
+OB   O
+O  O O
+OOR  O
+OOBS O
+OOOOOO
+
+Push_North
+OOOOOO
+OB   O
+O RO O
+OO   O
+OOBS O
+OOOOOO
+
+Push_North
+OOOOOO
+OBR  O
+O  O O
+OO   O
+OOBS O
+OOOOOO
+
+Pull_East
+OOOOOO
+O BR O
+O  O O
+OO   O
+OOBS O
+OOOOOO
+
+Push_East
+OOOOOO
+O B RO
+O  O O
+OO   O
+OOBS O
+OOOOOO
+
+Push_South
+OOOOOO
+O B  O
+O  ORO
+OO   O
+OOBS O
+OOOOOO
+
+Push_South
+OOOOOO
+O B  O
+O  O O
+OO  RO
+OOBS O
+OOOOOO
+
+Push_West
+OOOOOO
+O B  O
+O  O O
+OO R O
+OOBS O
+OOOOOO
+
+Push_West
+OOOOOO
+O B  O
+O  O O
+OOR  O
+OOBS O
+OOOOOO
+
+Push_North
+OOOOOO
+O B  O
+O RO O
+OO   O
+OOBS O
+OOOOOO
+
+Pull_South
+OOOOOO
+O    O
+O BO O
+OOR  O
+OOBS O
+OOOOOO
+
+Push_East
+OOOOOO
+O    O
+O BO O
+OO R O
+OOBS O
+OOOOOO
+
+Push_South
+OOOOOO
+O    O
+O BO O
+OO   O
+OOBR O
+OOOOOO
+
+Pull_East
+OOOOOO
+O    O
+O BO O
+OO   O
+OOSBRO
+OOOOOO
+
+Push_North
+OOOOOO
+O    O
+O BO O
+OO  RO
+OOSB O
+OOOOOO
+
+Push_North
+OOOOOO
+O    O
+O BORO
+OO   O
+OOSB O
+OOOOOO
+
+Push_North
+OOOOOO
+O   RO
+O BO O
+OO   O
+OOSB O
+OOOOOO
+
+Push_West
+OOOOOO
+O  R O
+O BO O
+OO   O
+OOSB O
+OOOOOO
+
+Push_West
+OOOOOO
+O R  O
+O BO O
+OO   O
+OOSB O
+OOOOOO
+
+Push_South
+OOOOOO
+O    O
+O RO O
+OOB  O
+OOSB O
+OOOOOO
+
+Push_South
+OOOOOO
+O    O
+O  O O
+OOR  O
+OOBB O
+OOOOOO
+
+Push_West
+OOOOOO
+OBR  O
+O BO O
+OO   O
+OOSS O
+OOOOOO
+
+Push_East
+OOOOOO
+OB R O
+O BO O
+OO   O
+OOSS O
+OOOOOO
+
+Push_East
+OOOOOO
+OB  RO
+O BO O
+OO   O
+OOSS O
+OOOOOO
+
+Push_South
+OOOOOO
+OB   O
+O BORO
+OO   O
+OOSS O
+OOOOOO
+
+Push_South
+OOOOOO
+OB   O
+O BO O
+OO  RO
+OOSS O
+OOOOOO
+
+Push_West
+OOOOOO
+OB   O
+O BO O
+OO R O
+OOSS O
+OOOOOO
+
+Push_West
+OOOOOO
+OB   O
+O BO O
+OOR  O
+OOSS O
+OOOOOO
+
+Pull_South
+OOOOOO
+OB   O
+O  O O
+OOB  O
+OORS O
+OOOOOO
+
+Push_East
+OOOOOO
+OB   O
+O  O O
+OOB  O
+OOSR O
+OOOOOO
+
+Push_East
+OOOOOO
+OB   O
+O  O O
+OOB  O
+OOSSRO
+OOOOOO
+
+Push_North
+OOOOOO
+OB   O
+O  O O
+OOB RO
+OOSS O
+OOOOOO
+
+Push_West
+OOOOOO
+OB   O
+O  O O
+OOBR O
+OOSS O
+OOOOOO
+
+Pull_East
+OOOOOO
+OB   O
+O  O O
+OO BRO
+OOSS O
+OOOOOO
+
+Push_South
+OOOOOO
+OB   O
+O  O O
+OO B O
+OOSSRO
+OOOOOO
+
+Push_West
+OOOOOO
+OB   O
+O  O O
+OO B O
+OOSR O
+OOOOOO
+
+Push_West
+OOOOOO
+OB   O
+O  O O
+OO B O
+OORS O
+OOOOOO
+
+Push_North
+OOOOOO
+OB   O
+O  O O
+OORB O
+OOSS O
+OOOOOO
+
+Push_East
+OOOOOO
+OB   O
+O  O O
+OO RBO
+OOSS O
+OOOOOO
+
+Push_West
+OOOOOO
+OB   O
+O  O O
+OOR BO
+OOSS O
+OOOOOO
+
+Push_South
+OOOOOO
+OB   O
+O  O O
+OO  BO
+OORS O
+OOOOOO
+
+Push_East
+OOOOOO
+OB   O
+O  O O
+OO  BO
+OOSR O
+OOOOOO
+
+Push_East
+OOOOOO
+OB   O
+O  O O
+OO  BO
+OOSSRO
+OOOOOO
+
+Push_North
+OOOOOO
+OB   O
+O  OBO
+OO  RO
+OOSS O
+OOOOOO
+
+Push_West
+OOOOOO
+OB   O
+O  OBO
+OO R O
+OOSS O
+OOOOOO
+
+Push_West
+OOOOOO
+OB   O
+O  OBO
+OOR  O
+OOSS O
+OOOOOO
+
+Push_North
+OOOOOO
+OB   O
+O ROBO
+OO   O
+OOSS O
+OOOOOO
+
+Push_North
+OOOOOO
+OBR  O
+O  OBO
+OO   O
+OOSS O
+OOOOOO
+
+Push_East
+OOOOOO
+OB R O
+O  OBO
+OO   O
+OOSS O
+OOOOOO
+
+Push_East
+OOOOOO
+OB  RO
+O  OBO
+OO   O
+OOSS O
+OOOOOO
+
+Push_South
+OOOOOO
+OB   O
+O  ORO
+OO  BO
+OOSS O
+OOOOOO
+
+Push_South
+OOOOOO
+OB   O
+O  O O
+OO  RO
+OOSSBO
+OOOOOO
+
+Push_West
+OOOOOO
+OB   O
+O  O O
+OO R O
+OOSSBO
+OOOOOO
+
+Push_West
+OOOOOO
+OB   O
+O  O O
+OOR  O
+OOSSBO
+OOOOOO
+
+Push_South
+OOOOOO
+OB   O
+O  O O
+OO   O
+OORSBO
+OOOOOO
+
+Push_East
+OOOOOO
+OB   O
+O  O O
+OO   O
+OOSRBO
+OOOOOO
+
+Pull_West
+OOOOOO
+OB   O
+O  O O
+OO   O
+OORB O
+OOOOOO
+
+Push_North
+OOOOOO
+OB   O
+O  O O
+OOR  O
+OOSB O
+OOOOOO
+
+Push_East
+OOOOOO
+OB   O
+O  O O
+OO R O
+OOSB O
+OOOOOO
+
+Push_East
+OOOOOO
+OB   O
+O  O O
+OO  RO
+OOSB O
+OOOOOO
+
+Push_South
+OOOOOO
+OB   O
+O  O O
+OO   O
+OOSBRO
+OOOOOO
+
+Push_West
+OOOOOO
+OB   O
+O  O O
+OO   O
+OOBR O
+OOOOOO
+
+Push_East
+OOOOOO
+OB   O
+O  O O
+OO   O
+OOBSRO
+OOOOOO
+
+Push_North
+OOOOOO
+OB   O
+O  O O
+OO  RO
+OOBS O
+OOOOOO
+
+Push_West
+OOOOOO
+OB   O
+O  O O
+OO R O
+OOBS O
+OOOOOO
+
+Push_West
+OOOOOO
+OB   O
+O  O O
+OOR  O
+OOBS O
+OOOOOO
+
+Pull_North
+OOOOOO
+OB   O
+O RO O
+OOB  O
+OOSS O
+OOOOOO
+
+Push_North
+OOOOOO
+OBR  O
+O  O O
+OOB  O
+OOSS O
+OOOOOO
+
+Pull_East
+OOOOOO
+O BR O
+O  O O
+OOB  O
+OOSS O
+OOOOOO
+
+Pull_East
+OOOOOO
+O  BRO
+O  O O
+OOB  O
+OOSS O
+OOOOOO
+
+Push_South
+OOOOOO
+O  B O
+O  ORO
+OOB  O
+OOSS O
+OOOOOO
+
+Push_South
+OOOOOO
+O  B O
+O  O O
+OOB RO
+OOSS O
+OOOOOO
+
+Push_West
+OOOOOO
+O  B O
+O  O O
+OOBR O
+OOSS O
+OOOOOO
+
+Pull_East
+OOOOOO
+O  B O
+O  O O
+OO BRO
+OOSS O
+OOOOOO
+
+Push_South
+OOOOOO
+O  B O
+O  O O
+OO B O
+OOSSRO
+OOOOOO
+
+Push_West
+OOOOOO
+O  B O
+O  O O
+OO B O
+OOSR O
+OOOOOO
+
+Push_West
+OOOOOO
+O  B O
+O  O O
+OO B O
+OORS O
+OOOOOO
+
+Push_North
+OOOOOO
+O  B O
+O  O O
+OORB O
+OOSS O
+OOOOOO
+
+Push_East
+OOOOOO
+O  B O
+O  O O
+OO RBO
+OOSS O
+OOOOOO
+
+Push_West
+OOOOOO
+O  B O
+O  O O
+OOR BO
+OOSS O
+OOOOOO
+
+Push_South
+OOOOOO
+O  B O
+O  O O
+OO  BO
+OORS O
+OOOOOO
+
+Push_East
+OOOOOO
+O  B O
+O  O O
+OO  BO
+OOSR O
+OOOOOO
+
+Push_East
+OOOOOO
+O  B O
+O  O O
+OO  BO
+OOSSRO
+OOOOOO
+
+Push_North
+OOOOOO
+O  B O
+O  OBO
+OO  RO
+OOSS O
+OOOOOO
+
+Push_West
+OOOOOO
+O  B O
+O  OBO
+OO R O
+OOSS O
+OOOOOO
+
+Push_West
+OOOOOO
+O  B O
+O  OBO
+OOR  O
+OOSS O
+OOOOOO
+
+Push_North
+OOOOOO
+O  B O
+O ROBO
+OO   O
+OOSS O
+OOOOOO
+
+Push_North
+OOOOOO
+O RB O
+O  OBO
+OO   O
+OOSS O
+OOOOOO
+
+Pull_West
+OOOOOO
+ORB  O
+O  OBO
+OO   O
+OOSS O
+OOOOOO
+
+Push_South
+OOOOOO
+O B  O
+OR OBO
+OO   O
+OOSS O
+OOOOOO
+
+Push_East
+OOOOOO
+O B  O
+O ROBO
+OO   O
+OOSS O
+OOOOOO
+
+Pull_South
+OOOOOO
+O    O
+O BOBO
+OOR  O
+OOSS O
+OOOOOO
+
+Push_East
+OOOOOO
+O    O
+O BOBO
+OO R O
+OOSS O
+OOOOOO
+
+Push_East
+OOOOOO
+O    O
+O BOBO
+OO  RO
+OOSS O
+OOOOOO
+
+Pull_South
+OOOOOO
+O    O
+O BO O
+OO  BO
+OOSSRO
+OOOOOO
+
+Push_West
+OOOOOO
+O    O
+O BO O
+OO  BO
+OOSR O
+OOOOOO
+
+Push_West
+OOOOOO
+O    O
+O BO O
+OO  BO
+OORS O
+OOOOOO
+
+Push_North
+OOOOOO
+O    O
+O BO O
+OOR BO
+OOSS O
+OOOOOO
+
+Push_East
+OOOOOO
+O    O
+O BO O
+OO RBO
+OOSS O
+OOOOOO
+
+Pull_West
+OOOOOO
+O    O
+O BO O
+OORB O
+OOSS O
+OOOOOO
+
+Pull_South
+OOOOOO
+O    O
+O  O O
+OOBB O
+OORS O
+OOOOOO
+
+Push_East
+OOOOOO
+O    O
+O  O O
+OOBB O
+OOSR O
+OOOOOO
+
+Push_East
+OOOOOO
+O    O
+O  O O
+OOBB O
+OOSSRO
+OOOOOO
+
+Push_North
+OOOOOO
+O    O
+O  O O
+OOBBRO
+OOSS O
+OOOOOO
+
+Push_North
+OOOOOO
+O    O
+O  ORO
+OOBB O
+OOSS O
+OOOOOO
+
+Push_North
+OOOOOO
+O   RO
+O  O O
+OOBB O
+OOSS O
+OOOOOO
+
+Push_West
+OOOOOO
+O  R O
+O  O O
+OOBB O
+OOSS O
+OOOOOO
+
+Push_West
+OOOOOO
+O R  O
+O  O O
+OOBB O
+OOSS O
+OOOOOO
+
+Push_West
+OOOOOO
+OR   O
+O  O O
+OOBB O
+OOSS O
+OOOOOO
+
+Push_South
+OOOOOO
+O    O
+OR O O
+OOBB O
+OOSS O
+OOOOOO
+
+Push_East
+OOOOOO
+O    O
+O RO O
+OOBB O
+OOSS O
+OOOOOO
+
+Push_South
+OOOOOO
+O    O
+O  O O
+OORB O
+OOBS O
+OOOOOO
+
+Push_East
+OOOOOO
+O    O
+O  O O
+OO RBO
+OOBS O
+OOOOOO
+
+Push_West
+OOOOOO
+O    O
+O  O O
+OOR BO
+OOBS O
+OOOOOO
+
+Pull_North
+OOOOOO
+O    O
+O RO O
+OOB BO
+OOSS O
+OOOOOO
+
+Push_West
+OOOOOO
+O    O
+OR O O
+OOB BO
+OOSS O
+OOOOOO
+
+Push_North
+OOOOOO
+OR   O
+O  O O
+OOB BO
+OOSS O
+OOOOOO
+
+Push_East
+OOOOOO
+O R  O
+O  O O
+OOB BO
+OOSS O
+OOOOOO
+
+Push_East
+OOOOOO
+O  R O
+O  O O
+OOB BO
+OOSS O
+OOOOOO
+
+Push_East
+OOOOOO
+O   RO
+O  O O
+OOB BO
+OOSS O
+OOOOOO
+
+Push_South
+OOOOOO
+O    O
+O  ORO
+OOB BO
+OOSS O
+OOOOOO
+
+Push_South
+OOOOOO
+O    O
+O  O O
+OOB RO
+OOSSBO
+OOOOOO
+
+Push_North
+OOOOOO
+O    O
+O  ORO
+OOB  O
+OOSSBO
+OOOOOO
+
+Push_North
+OOOOOO
+O   RO
+O  O O
+OOB  O
+OOSSBO
+OOOOOO
+
+Push_West
+OOOOOO
+O  R O
+O  O O
+OOB  O
+OOSSBO
+OOOOOO
+
+Push_West
+OOOOOO
+O R  O
+O  O O
+OOB  O
+OOSSBO
+OOOOOO
+
+Push_West
+OOOOOO
+OR   O
+O  O O
+OOB  O
+OOSSBO
+OOOOOO
+
+Push_South
+OOOOOO
+O    O
+OR O O
+OOB  O
+OOSSBO
+OOOOOO
+
+Push_East
+OOOOOO
+O    O
+O RO O
+OOB  O
+OOSSBO
+OOOOOO
+
+Push_South
+OOOOOO
+O    O
+O  O O
+OOR  O
+OOBSBO
+OOOOOO
+
+Push_East
+OOOOOO
+O    O
+O  O O
+OO R O
+OOBSBO
+OOOOOO
+
+Push_East
+OOOOOO
+O    O
+O  O O
+OO  RO
+OOBSBO
+OOOOOO
+
+Pull_North
+OOOOOO
+O    O
+O  ORO
+OO  BO
+OOBS O
+OOOOOO
+
+Pull_North
+OOOOOO
+O   RO
+O  OBO
+OO   O
+OOBS O
+OOOOOO
+
+Push_West
+OOOOOO
+O  R O
+O  OBO
+OO   O
+OOBS O
+OOOOOO
+
+Push_West
+OOOOOO
+O R  O
+O  OBO
+OO   O
+OOBS O
+OOOOOO
+
+Push_South
+OOOOOO
+O    O
+O ROBO
+OO   O
+OOBS O
+OOOOOO
+
+Push_South
+OOOOOO
+O    O
+O  OBO
+OOR  O
+OOBS O
+OOOOOO
+
+Push_East
+OOOOOO
+O    O
+O  OBO
+OO R O
+OOBS O
+OOOOOO
+
+Push_East
+OOOOOO
+O    O
+O  OBO
+OO  RO
+OOBS O
+OOOOOO
+
+Pull_South
+OOOOOO
+O    O
+O  O O
+OO  BO
+OOBSRO
+OOOOOO
+
+Push_West
+OOOOOO
+O    O
+O  O O
+OO  BO
+OOBR O
+OOOOOO
+
+Pull_East
+OOOOOO
+O    O
+O  O O
+OO  BO
+OOSBRO
+OOOOOO
+
+Push_North
+OOOOOO
+O    O
+O  OBO
+OO  RO
+OOSB O
+OOOOOO
+
+Push_West
+OOOOOO
+O    O
+O  OBO
+OO R O
+OOSB O
+OOOOOO
+
+Push_West
+OOOOOO
+O    O
+O  OBO
+OOR  O
+OOSB O
+OOOOOO
+
+Push_South
+OOOOOO
+O    O
+O  OBO
+OO   O
+OORB O
+OOOOOO
+
+Push_East
+OOOOOO
+O    O
+O  OBO
+OO   O
+OOSRBO
+OOOOOO
+
+Push_West
+OOOOOO
+O    O
+O  OBO
+OO   O
+OORSBO
+OOOOOO
+
+Push_North
+OOOOOO
+O    O
+O  OBO
+OOR  O
+OOSSBO
+OOOOOO
+
+Push_East
+OOOOOO
+O    O
+O  OBO
+OO R O
+OOSSBO
+OOOOOO
+
+Push_East
+OOOOOO
+O    O
+O  OBO
+OO  RO
+OOSSBO
+OOOOOO
+
+Push_North
+OOOOOO
+O   BO
+O  ORO
+OO   O
+OOSSBO
+OOOOOO
+
+Push_South
+OOOOOO
+O   BO
+O  O O
+OO  RO
+OOSSBO
+OOOOOO
+
+Push_West
+OOOOOO
+O   BO
+O  O O
+OO R O
+OOSSBO
+OOOOOO
+
+Push_West
+OOOOOO
+O   BO
+O  O O
+OOR  O
+OOSSBO
+OOOOOO
+
+Push_South
+OOOOOO
+O   BO
+O  O O
+OO   O
+OORSBO
+OOOOOO
+
+Push_East
+OOOOOO
+O   BO
+O  O O
+OO   O
+OOSRBO
+OOOOOO
+
+Pull_West
+OOOOOO
+O   BO
+O  O O
+OO   O
+OORB O
+OOOOOO
+
+Push_North
+OOOOOO
+O   BO
+O  O O
+OOR  O
+OOSB O
+OOOOOO
+
+Push_East
+OOOOOO
+O   BO
+O  O O
+OO R O
+OOSB O
+OOOOOO
+
+Push_East
+OOOOOO
+O   BO
+O  O O
+OO  RO
+OOSB O
+OOOOOO
+
+Push_South
+OOOOOO
+O   BO
+O  O O
+OO   O
+OOSBRO
+OOOOOO
+
+Push_West
+OOOOOO
+O   BO
+O  O O
+OO   O
+OOBR O
+OOOOOO
+
+Push_North
+OOOOOO
+O   BO
+O  O O
+OO R O
+OOBS O
+OOOOOO
+
+Push_West
+OOOOOO
+O   BO
+O  O O
+OOR  O
+OOBS O
+OOOOOO
+
+Push_North
+OOOOOO
+O   BO
+O RO O
+OO   O
+OOBS O
+OOOOOO
+
+Push_West
+OOOOOO
+O   BO
+OR O O
+OO   O
+OOBS O
+OOOOOO
+
+Push_North
+OOOOOO
+OR  BO
+O  O O
+OO   O
+OOBS O
+OOOOOO
+
+Push_East
+OOOOOO
+O R BO
+O  O O
+OO   O
+OOBS O
+OOOOOO
+
+Push_East
+OOOOOO
+O  RBO
+O  O O
+OO   O
+OOBS O
+OOOOOO
+
+Pull_West
+OOOOOO
+O RB O
+O  O O
+OO   O
+OOBS O
+OOOOOO
+
+Pull_West
+OOOOOO
+ORB  O
+O  O O
+OO   O
+OOBS O
+OOOOOO
+
+Push_South
+OOOOOO
+O B  O
+OR O O
+OO   O
+OOBS O
+OOOOOO
+
+Push_East
+OOOOOO
+O B  O
+O RO O
+OO   O
+OOBS O
+OOOOOO
+
+Pull_South
+OOOOOO
+O    O
+O BO O
+OOR  O
+OOBS O
+OOOOOO
+
+Push_East
+OOOOOO
+O    O
+O BO O
+OO R O
+OOBS O
+OOOOOO
+
+Push_East
+OOOOOO
+O    O
+O BO O
+OO  RO
+OOBS O
+OOOOOO
+
+Push_North
+OOOOOO
+O    O
+O BORO
+OO   O
+OOBS O
+OOOOOO
+
+Push_North
+OOOOOO
+O   RO
+O BO O
+OO   O
+OOBS O
+OOOOOO
+
+Push_West
+OOOOOO
+O  R O
+O BO O
+OO   O
+OOBS O
+OOOOOO
+
+Push_West
+OOOOOO
+O R  O
+O BO O
+OO   O
+OOBS O
+OOOOOO
+
+Push_South
+OOOOOO
+O    O
+O RO O
+OOB  O
+OOBS O
+OOOOOO
+
+Push_West
+OOOOOO
+O    O
+OR O O
+OOB  O
+OOBS O
+OOOOOO
+
+Push_North
+OOOOOO
+OR   O
+O  O O
+OOB  O
+OOBS O
+OOOOOO
+
+Push_East
+OOOOOO
+O R  O
+O  O O
+OOB  O
+OOBS O
+OOOOOO
+
+Push_East
+OOOOOO
+O  R O
+O  O O
+OOB  O
+OOBS O
+OOOOOO
+
+Push_East
+OOOOOO
+O   RO
+O  O O
+OOB  O
+OOBS O
+OOOOOO
+
+Push_South
+OOOOOO
+O    O
+O  ORO
+OOB  O
+OOBS O
+OOOOOO
+
+Push_South
+OOOOOO
+O    O
+O  O O
+OOB RO
+OOBS O
+OOOOOO
+
+Push_West
+OOOOOO
+O    O
+O  O O
+OOBR O
+OOBS O
+OOOOOO
+
+Push_South
+OOOOOO
+O    O
+O  O O
+OOB  O
+OOBR O
+OOOOOO
+
+Pull_East
+OOOOOO
+O    O
+O  O O
+OOB  O
+OOSBRO
+OOOOOO
+
+Push_North
+OOOOOO
+O    O
+O  O O
+OOB RO
+OOSB O
+OOOOOO
+
+Push_North
+OOOOOO
+O    O
+O  ORO
+OOB  O
+OOSB O
+OOOOOO
+
+Push_North
+OOOOOO
+O   RO
+O  O O
+OOB  O
+OOSB O
+OOOOOO
+
+Push_West
+OOOOOO
+O  R O
+O  O O
+OOB  O
+OOSB O
+OOOOOO
+
+Push_West
+OOOOOO
+O R  O
+O  O O
+OOB  O
+OOSB O
+OOOOOO
+
+Push_West
+OOOOOO
+OR   O
+O  O O
+OOB  O
+OOSB O
+OOOOOO
+
+Push_South
+OOOOOO
+O    O
+OR O O
+OOB  O
+OOSB O
+OOOOOO
+
+Push_East
+OOOOOO
+O    O
+O RO O
+OOB  O
+OOSB O
+OOOOOO
+
+Push_South
+OOOOOO
+O    O
+O  O O
+OOR  O
+OOBB O
+OOOOOO
+
+Push_East
+OOOOOO
+O B RO
+O BO O
+OO   O
+OOSS O
+OOOOOO
+
+Push_South
+OOOOOO
+O B  O
+O BORO
+OO   O
+OOSS O
+OOOOOO
+
+Push_South
+OOOOOO
+O B  O
+O BO O
+OO  RO
+OOSS O
+OOOOOO
+
+Push_West
+OOOOOO
+O B  O
+O BO O
+OO R O
+OOSS O
+OOOOOO
+
+Push_West
+OOOOOO
+O B  O
+O BO O
+OOR  O
+OOSS O
+OOOOOO
+
+Pull_South
+OOOOOO
+O B  O
+O  O O
+OOB  O
+OORS O
+OOOOOO
+
+Push_East
+OOOOOO
+O B  O
+O  O O
+OOB  O
+OOSR O
+OOOOOO
+
+Push_North
+OOOOOO
+O B  O
+O  O O
+OOBR O
+OOSS O
+OOOOOO
+
+Pull_East
+OOOOOO
+O B  O
+O  O O
+OO BRO
+OOSS O
+OOOOOO
+
+Push_South
+OOOOOO
+O B  O
+O  O O
+OO B O
+OOSSRO
+OOOOOO
+
+Push_West
+OOOOOO
+O B  O
+O  O O
+OO B O
+OOSR O
+OOOOOO
+
+Push_West
+OOOOOO
+O B  O
+O  O O
+OO B O
+OORS O
+OOOOOO
+
+Push_North
+OOOOOO
+O B  O
+O  O O
+OORB O
+OOSS O
+OOOOOO
+
+Push_North
+OOOOOO
+O B  O
+O RO O
+OO B O
+OOSS O
+OOOOOO
+
+Pull_South
+OOOOOO
+O    O
+O BO O
+OORB O
+OOSS O
+OOOOOO
+
+Pull_South
+OOOOOO
+O    O
+O  O O
+OOBB O
+OORS O
+OOOOOO
+
+Push_East
+OOOOOO
+O    O
+O  O O
+OOBB O
+OOSR O
+OOOOOO
+
+Push_East
+OOOOOO
+O    O
+O  O O
+OOBB O
+OOSSRO
+OOOOOO
+
+Push_North
+OOOOOO
+O    O
+O  O O
+OOBBRO
+OOSS O
+OOOOOO
+
+Push_North
+OOOOOO
+O    O
+O  ORO
+OOBB O
+OOSS O
+OOOOOO
+
+Push_North
+OOOOOO
+O   RO
+O  O O
+OOBB O
+OOSS O
+OOOOOO
+
+Push_West
+OOOOOO
+O  R O
+O  O O
+OOBB O
+OOSS O
+OOOOOO
+
+Push_West
+OOOOOO
+O R  O
+O  O O
+OOBB O
+OOSS O
+OOOOOO
+
+Push_South
+OOOOOO
+O    O
+O RO O
+OOBB O
+OOSS O
+OOOOOO
+
+Push_South
+OOOOOO
+O    O
+O  O O
+OORB O
+OOBS O
+OOOOOO
+
+Push_North
+OOOOOO
+O    O
+O RO O
+OO B O
+OOBS O
+OOOOOO
+
+Push_North
+OOOOOO
+O R  O
+O  O O
+OO B O
+OOBS O
+OOOOOO
+
+Push_East
+OOOOOO
+O  R O
+O  O O
+OO B O
+OOBS O
+OOOOOO
+
+Push_East
+OOOOOO
+O   RO
+O  O O
+OO B O
+OOBS O
+OOOOOO
+
+Push_South
+OOOOOO
+O    O
+O  ORO
+OO B O
+OOBS O
+OOOOOO
+
+Push_South
+OOOOOO
+O    O
+O  O O
+OO BRO
+OOBS O
+OOOOOO
+
+Push_South
+OOOOOO
+O    O
+O  O O
+OO B O
+OOBSRO
+OOOOOO
+
+Push_West
+OOOOOO
+O    O
+O  O O
+OO B O
+OOBR O
+OOOOOO
+
+Pull_East
+OOOOOO
+O    O
+O  O O
+OO B O
+OOSBRO
+OOOOOO
+
+Push_North
+OOOOOO
+O    O
+O  O O
+OO BRO
+OOSB O
+OOOOOO
+
+Push_West
+OOOOOO
+O    O
+O  O O
+OOBR O
+OOSB O
+OOOOOO
+
+Push_East
+OOOOOO
+O    O
+O  O O
+OOB RO
+OOSB O
+OOOOOO
+
+Push_North
+OOOOOO
+O    O
+O  ORO
+OOB  O
+OOSB O
+OOOOOO
+
+Push_North
+OOOOOO
+O   RO
+O  O O
+OOB  O
+OOSB O
+OOOOOO
+
+Push_West
+OOOOOO
+O  R O
+O  O O
+OOB  O
+OOSB O
+OOOOOO
+
+Push_West
+OOOOOO
+O R  O
+O  O O
+OOB  O
+OOSB O
+OOOOOO
+
+Push_West
+OOOOOO
+OR   O
+O  O O
+OOB  O
+OOSB O
+OOOOOO
+
+Push_South
+OOOOOO
+O    O
+OR O O
+OOB  O
+OOSB O
+OOOOOO
+
+Push_East
+OOOOOO
+O    O
+O RO O
+OOB  O
+OOSB O
+OOOOOO
+
+Push_South
+OOOOOO
+O    O
+O  O O
+OOR  O
+OOBB O
+OOOOOO
+
+Push_West
+OOOOOO
+OBR  O
+O BO O
+OO   O
+OOSS O
+OOOOOO
+
+Push_East
+OOOOOO
+OB R O
+O BO O
+OO   O
+OOSS O
+OOOOOO
+
+Push_East
+OOOOOO
+OB  RO
+O BO O
+OO   O
+OOSS O
+OOOOOO
+
+Push_South
+OOOOOO
+OB   O
+O BORO
+OO   O
+OOSS O
+OOOOOO
+
+Push_South
+OOOOOO
+OB   O
+O BO O
+OO  RO
+OOSS O
+OOOOOO
+
+Push_West
+OOOOOO
+OB   O
+O BO O
+OO R O
+OOSS O
+OOOOOO
+
+Push_West
+OOOOOO
+OB   O
+O BO O
+OOR  O
+OOSS O
+OOOOOO
+
+Pull_South
+OOOOOO
+OB   O
+O  O O
+OOB  O
+OORS O
+OOOOOO
+
+Push_East
+OOOOOO
+OB   O
+O  O O
+OOB  O
+OOSR O
+OOOOOO
+
+Push_East
+OOOOOO
+OB   O
+O  O O
+OOB  O
+OOSSRO
+OOOOOO
+
+Push_North
+OOOOOO
+OB   O
+O  O O
+OOB RO
+OOSS O
+OOOOOO
+
+Push_West
+OOOOOO
+OB   O
+O  O O
+OOBR O
+OOSS O
+OOOOOO
+
+Pull_East
+OOOOOO
+OB   O
+O  O O
+OO BRO
+OOSS O
+OOOOOO
+
+Push_South
+OOOOOO
+OB   O
+O  O O
+OO B O
+OOSSRO
+OOOOOO
+
+Push_West
+OOOOOO
+OB   O
+O  O O
+OO B O
+OOSR O
+OOOOOO
+
+Push_West
+OOOOOO
+OB   O
+O  O O
+OO B O
+OORS O
+OOOOOO
+
+Push_North
+OOOOOO
+OB   O
+O  O O
+OORB O
+OOSS O
+OOOOOO
+
+Push_East
+OOOOOO
+OB   O
+O  O O
+OO RBO
+OOSS O
+OOOOOO
+
+Push_West
+OOOOOO
+OB   O
+O  O O
+OOR BO
+OOSS O
+OOOOOO
+
+Push_South
+OOOOOO
+OB   O
+O  O O
+OO  BO
+OORS O
+OOOOOO
+
+Push_East
+OOOOOO
+OB   O
+O  O O
+OO  BO
+OOSR O
+OOOOOO
+
+Push_East
+OOOOOO
+OB   O
+O  O O
+OO  BO
+OOSSRO
+OOOOOO
+
+Push_North
+OOOOOO
+OB   O
+O  OBO
+OO  RO
+OOSS O
+OOOOOO
+
+Push_West
+OOOOOO
+OB   O
+O  OBO
+OO R O
+OOSS O
+OOOOOO
+
+Push_West
+OOOOOO
+OB   O
+O  OBO
+OOR  O
+OOSS O
+OOOOOO
+
+Push_North
+OOOOOO
+OB   O
+O ROBO
+OO   O
+OOSS O
+OOOOOO
+
+Push_North
+OOOOOO
+OBR  O
+O  OBO
+OO   O
+OOSS O
+OOOOOO
+
+Pull_East
+OOOOOO
+O BR O
+O  OBO
+OO   O
+OOSS O
+OOOOOO
+
+Pull_East
+OOOOOO
+O  BRO
+O  OBO
+OO   O
+OOSS O
+OOOOOO
+
+Push_South
+OOOOOO
+O  B O
+O  ORO
+OO  BO
+OOSS O
+OOOOOO
+
+Push_South
+OOOOOO
+O  B O
+O  O O
+OO  RO
+OOSSBO
+OOOOOO
+
+Push_West
+OOOOOO
+O  B O
+O  O O
+OO R O
+OOSSBO
+OOOOOO
+
+Push_West
+OOOOOO
+O  B O
+O  O O
+OOR  O
+OOSSBO
+OOOOOO
+
+Push_South
+OOOOOO
+O  B O
+O  O O
+OO   O
+OORSBO
+OOOOOO
+
+Push_East
+OOOOOO
+O  B O
+O  O O
+OO   O
+OOSRBO
+OOOOOO
+
+Pull_West
+OOOOOO
+O  B O
+O  O O
+OO   O
+OORB O
+OOOOOO
+
+Push_North
+OOOOOO
+O  B O
+O  O O
+OOR  O
+OOSB O
+OOOOOO
+
+Push_East
+OOOOOO
+O  B O
+O  O O
+OO R O
+OOSB O
+OOOOOO
+
+Push_East
+OOOOOO
+O  B O
+O  O O
+OO  RO
+OOSB O
+OOOOOO
+
+Push_South
+OOOOOO
+O  B O
+O  O O
+OO   O
+OOSBRO
+OOOOOO
+
+Push_West
+OOOOOO
+O  B O
+O  O O
+OO   O
+OOBR O
+OOOOOO
+
+Push_East
+OOOOOO
+O  B O
+O  O O
+OO   O
+OOBSRO
+OOOOOO
+
+Push_North
+OOOOOO
+O  B O
+O  O O
+OO  RO
+OOBS O
+OOOOOO
+
+Push_West
+OOOOOO
+O  B O
+O  O O
+OO R O
+OOBS O
+OOOOOO
+
+Push_West
+OOOOOO
+O  B O
+O  O O
+OOR  O
+OOBS O
+OOOOOO
+
+Pull_North
+OOOOOO
+O  B O
+O RO O
+OOB  O
+OOSS O
+OOOOOO
+
+Push_West
+OOOOOO
+O  B O
+OR O O
+OOB  O
+OOSS O
+OOOOOO
+
+Push_North
+OOOOOO
+OR B O
+O  O O
+OOB  O
+OOSS O
+OOOOOO
+
+Push_East
+OOOOOO
+O RB O
+O  O O
+OOB  O
+OOSS O
+OOOOOO
+
+Pull_West
+OOOOOO
+ORB  O
+O  O O
+OOB  O
+OOSS O
+OOOOOO
+
+Push_South
+OOOOOO
+O B  O
+OR O O
+OOB  O
+OOSS O
+OOOOOO
+
+Push_East
+OOOOOO
+O B  O
+O RO O
+OOB  O
+OOSS O
+OOOOOO
+
+Push_South
+OOOOOO
+O B  O
+O  O O
+OOR  O
+OOBS O
+OOOOOO
+
+Push_East
+OOOOOO
+O B  O
+O  O O
+OO R O
+OOBS O
+OOOOOO
+
+Push_East
+OOOOOO
+O B  O
+O  O O
+OO  RO
+OOBS O
+OOOOOO
+
+Push_South
+OOOOOO
+O B  O
+O  O O
+OO   O
+OOBSRO
+OOOOOO
+
+Push_West
+OOOOOO
+O B  O
+O  O O
+OO   O
+OOBR O
+OOOOOO
+
+Pull_East
+OOOOOO
+O B  O
+O  O O
+OO   O
+OOSBRO
+OOOOOO
+
+Push_North
+OOOOOO
+O B  O
+O  O O
+OO  RO
+OOSB O
+OOOOOO
+
+Push_West
+OOOOOO
+O B  O
+O  O O
+OO R O
+OOSB O
+OOOOOO
+
+Push_West
+OOOOOO
+O B  O
+O  O O
+OOR  O
+OOSB O
+OOOOOO
+
+Push_South
+OOOOOO
+O B  O
+O  O O
+OO   O
+OORB O
+OOOOOO
+
+Push_East
+OOOOOO
+O B  O
+O  O O
+OO   O
+OOSRBO
+OOOOOO
+
+Push_West
+OOOOOO
+O B  O
+O  O O
+OO   O
+OORSBO
+OOOOOO
+
+Push_North
+OOOOOO
+O B  O
+O  O O
+OOR  O
+OOSSBO
+OOOOOO
+
+Push_East
+OOOOOO
+O B  O
+O  O O
+OO R O
+OOSSBO
+OOOOOO
+
+Push_East
+OOOOOO
+O B  O
+O  O O
+OO  RO
+OOSSBO
+OOOOOO
+
+Pull_North
+OOOOOO
+O B  O
+O  ORO
+OO  BO
+OOSS O
+OOOOOO
+
+Push_North
+OOOOOO
+O B RO
+O  O O
+OO  BO
+OOSS O
+OOOOOO
+
+Push_West
+OOOOOO
+O BR O
+O  O O
+OO  BO
+OOSS O
+OOOOOO
+
+Push_West
+OOOOOO
+OBR  O
+O  O O
+OO  BO
+OOSS O
+OOOOOO
+
+Push_East
+OOOOOO
+OB R O
+O  O O
+OO  BO
+OOSS O
+OOOOOO
+
+Push_East
+OOOOOO
+OB  RO
+O  O O
+OO  BO
+OOSS O
+OOOOOO
+
+Push_South
+OOOOOO
+OB   O
+O  ORO
+OO  BO
+OOSS O
+OOOOOO
+
+Push_South
+OOOOOO
+OB   O
+O  O O
+OO  RO
+OOSSBO
+OOOOOO
+
+Push_West
+OOOOOO
+OB   O
+O  O O
+OO R O
+OOSSBO
+OOOOOO
+
+Push_West
+OOOOOO
+OB   O
+O  O O
+OOR  O
+OOSSBO
+OOOOOO
+
+Push_South
+OOOOOO
+OB   O
+O  O O
+OO   O
+OORSBO
+OOOOOO
+
+Push_East
+OOOOOO
+OB   O
+O  O O
+OO   O
+OOSRBO
+OOOOOO
+
+Pull_West
+OOOOOO
+OB   O
+O  O O
+OO   O
+OORB O
+OOOOOO
+
+Push_North
+OOOOOO
+OB   O
+O  O O
+OOR  O
+OOSB O
+OOOOOO
+
+Push_East
+OOOOOO
+OB   O
+O  O O
+OO R O
+OOSB O
+OOOOOO
+
+Push_East
+OOOOOO
+OB   O
+O  O O
+OO  RO
+OOSB O
+OOOOOO
+
+Push_South
+OOOOOO
+OB   O
+O  O O
+OO   O
+OOSBRO
+OOOOOO
+
+Push_West
+OOOOOO
+OB   O
+O  O O
+OO   O
+OOBR O
+OOOOOO
+
+Push_East
+OOOOOO
+OB   O
+O  O O
+OO   O
+OOBSRO
+OOOOOO
+
+Push_North
+OOOOOO
+OB   O
+O  O O
+OO  RO
+OOBS O
+OOOOOO
+
+Push_West
+OOOOOO
+OB   O
+O  O O
+OO R O
+OOBS O
+OOOOOO
+
+Push_West
+OOOOOO
+OB   O
+O  O O
+OOR  O
+OOBS O
+OOOOOO
+
+Pull_North
+OOOOOO
+OB   O
+O RO O
+OOB  O
+OOSS O
+OOOOOO
+
+Push_North
+OOOOOO
+OBR  O
+O  O O
+OOB  O
+OOSS O
+OOOOOO
+
+Pull_East
+OOOOOO
+O BR O
+O  O O
+OOB  O
+OOSS O
+OOOOOO
+
+Pull_East
+OOOOOO
+O  BRO
+O  O O
+OOB  O
+OOSS O
+OOOOOO
+
+Push_South
+OOOOOO
+O  B O
+O  ORO
+OOB  O
+OOSS O
+OOOOOO
+
+Push_South
+OOOOOO
+O  B O
+O  O O
+OOB RO
+OOSS O
+OOOOOO
+
+Push_West
+OOOOOO
+O  B O
+O  O O
+OOBR O
+OOSS O
+OOOOOO
+
+Pull_East
+OOOOOO
+O  B O
+O  O O
+OO BRO
+OOSS O
+OOOOOO
+
+Push_South
+OOOOOO
+O  B O
+O  O O
+OO B O
+OOSSRO
+OOOOOO
+
+Push_West
+OOOOOO
+O  B O
+O  O O
+OO B O
+OOSR O
+OOOOOO
+
+Push_West
+OOOOOO
+O  B O
+O  O O
+OO B O
+OORS O
+OOOOOO
+
+Push_North
+OOOOOO
+O  B O
+O  O O
+OORB O
+OOSS O
+OOOOOO
+
+Push_East
+OOOOOO
+O  B O
+O  O O
+OO RBO
+OOSS O
+OOOOOO
+
+Push_West
+OOOOOO
+O  B O
+O  O O
+OOR BO
+OOSS O
+OOOOOO
+
+Push_South
+OOOOOO
+O  B O
+O  O O
+OO  BO
+OORS O
+OOOOOO
+
+Push_East
+OOOOOO
+O  B O
+O  O O
+OO  BO
+OOSR O
+OOOOOO
+
+Push_East
+OOOOOO
+O  B O
+O  O O
+OO  BO
+OOSSRO
+OOOOOO
+
+Push_North
+OOOOOO
+O  B O
+O  OBO
+OO  RO
+OOSS O
+OOOOOO
+
+Push_West
+OOOOOO
+O  B O
+O  OBO
+OO R O
+OOSS O
+OOOOOO
+
+Push_West
+OOOOOO
+O  B O
+O  OBO
+OOR  O
+OOSS O
+OOOOOO
+
+Push_North
+OOOOOO
+O  B O
+O ROBO
+OO   O
+OOSS O
+OOOOOO
+
+Push_West
+OOOOOO
+O  B O
+OR OBO
+OO   O
+OOSS O
+OOOOOO
+
+Push_North
+OOOOOO
+OR B O
+O  OBO
+OO   O
+OOSS O
+OOOOOO
+
+Push_East
+OOOOOO
+O RB O
+O  OBO
+OO   O
+OOSS O
+OOOOOO
+
+Pull_West
+OOOOOO
+ORB  O
+O  OBO
+OO   O
+OOSS O
+OOOOOO
+
+Push_South
+OOOOOO
+O B  O
+OR OBO
+OO   O
+OOSS O
+OOOOOO
+
+Push_East
+OOOOOO
+O B  O
+O ROBO
+OO   O
+OOSS O
+OOOOOO
+
+Pull_South
+OOOOOO
+O    O
+O BOBO
+OOR  O
+OOSS O
+OOOOOO
+
+Push_East
+OOOOOO
+O    O
+O BOBO
+OO R O
+OOSS O
+OOOOOO
+
+Push_East
+OOOOOO
+O    O
+O BOBO
+OO  RO
+OOSS O
+OOOOOO
+
+Pull_South
+OOOOOO
+O    O
+O BO O
+OO  BO
+OOSSRO
+OOOOOO
+
+Push_West
+OOOOOO
+O    O
+O BO O
+OO  BO
+OOSR O
+OOOOOO
+
+Push_West
+OOOOOO
+O    O
+O BO O
+OO  BO
+OORS O
+OOOOOO
+
+Push_North
+OOOOOO
+O    O
+O BO O
+OOR BO
+OOSS O
+OOOOOO
+
+Push_East
+OOOOOO
+O    O
+O BO O
+OO RBO
+OOSS O
+OOOOOO
+
+Pull_West
+OOOOOO
+O    O
+O BO O
+OORB O
+OOSS O
+OOOOOO
+
+Pull_South
+OOOOOO
+O    O
+O  O O
+OOBB O
+OORS O
+OOOOOO
+
+Push_East
+OOOOOO
+O    O
+O  O O
+OOBB O
+OOSR O
+OOOOOO
+
+Push_East
+OOOOOO
+O    O
+O  O O
+OOBB O
+OOSSRO
+OOOOOO
+
+Push_North
+OOOOOO
+O    O
+O  O O
+OOBBRO
+OOSS O
+OOOOOO
+
+Push_North
+OOOOOO
+O    O
+O  ORO
+OOBB O
+OOSS O
+OOOOOO
+
+Push_North
+OOOOOO
+O   RO
+O  O O
+OOBB O
+OOSS O
+OOOOOO
+
+Push_West
+OOOOOO
+O  R O
+O  O O
+OOBB O
+OOSS O
+OOOOOO
+
+Push_West
+OOOOOO
+O R  O
+O  O O
+OOBB O
+OOSS O
+OOOOOO
+
+Push_West
+OOOOOO
+OR   O
+O  O O
+OOBB O
+OOSS O
+OOOOOO
+
+Push_South
+OOOOOO
+O    O
+OR O O
+OOBB O
+OOSS O
+OOOOOO
+
+Push_East
+OOOOOO
+O    O
+O RO O
+OOBB O
+OOSS O
+OOOOOO
+
+Push_South
+OOOOOO
+O    O
+O  O O
+OORB O
+OOBS O
+OOOOOO
+
+Push_East
+OOOOOO
+O    O
+O  O O
+OO RBO
+OOBS O
+OOOOOO
+
+Push_West
+OOOOOO
+O    O
+O  O O
+OOR BO
+OOBS O
+OOOOOO
+
+Pull_North
+OOOOOO
+O    O
+O RO O
+OOB BO
+OOSS O
+OOOOOO
+
+Push_West
+OOOOOO
+O    O
+OR O O
+OOB BO
+OOSS O
+OOOOOO
+
+Push_North
+OOOOOO
+OR   O
+O  O O
+OOB BO
+OOSS O
+OOOOOO
+
+Push_East
+OOOOOO
+O R  O
+O  O O
+OOB BO
+OOSS O
+OOOOOO
+
+Push_East
+OOOOOO
+O  R O
+O  O O
+OOB BO
+OOSS O
+OOOOOO
+
+Push_East
+OOOOOO
+O   RO
+O  O O
+OOB BO
+OOSS O
+OOOOOO
+
+Push_South
+OOOOOO
+O    O
+O  ORO
+OOB BO
+OOSS O
+OOOOOO
+
+Push_South
+OOOOOO
+O    O
+O  O O
+OOB RO
+OOSSBO
+OOOOOO
+
+Push_West
+OOOOOO
+O    O
+O  O O
+OOBR O
+OOSSBO
+OOOOOO
+
+Pull_East
+OOOOOO
+O    O
+O  O O
+OO BRO
+OOSSBO
+OOOOOO
+
+Push_North
+OOOOOO
+O    O
+O  ORO
+OO B O
+OOSSBO
+OOOOOO
+
+Push_North
+OOOOOO
+O   RO
+O  O O
+OO B O
+OOSSBO
+OOOOOO
+
+Push_West
+OOOOOO
+O  R O
+O  O O
+OO B O
+OOSSBO
+OOOOOO
+
+Push_West
+OOOOOO
+O R  O
+O  O O
+OO B O
+OOSSBO
+OOOOOO
+
+Push_West
+OOOOOO
+OR   O
+O  O O
+OO B O
+OOSSBO
+OOOOOO
+
+Push_South
+OOOOOO
+O    O
+OR O O
+OO B O
+OOSSBO
+OOOOOO
+
+Push_East
+OOOOOO
+O    O
+O RO O
+OO B O
+OOSSBO
+OOOOOO
+
+Push_South
+OOOOOO
+O    O
+O  O O
+OORB O
+OOSSBO
+OOOOOO
+
+Push_East
+OOOOOO
+O    O
+O  O O
+OO RBO
+OOSSBO
+OOOOOO
+
+Push_West
+OOOOOO
+O    O
+O  O O
+OOR BO
+OOSSBO
+OOOOOO
+
+Push_South
+OOOOOO
+O    O
+O  O O
+OO  BO
+OORSBO
+OOOOOO
+
+Push_East
+OOOOOO
+O    O
+O  O O
+OO  BO
+OOSRBO
+OOOOOO
+
+Pull_West
+OOOOOO
+O    O
+O  O O
+OO  BO
+OORB O
+OOOOOO
+
+Push_North
+OOOOOO
+O    O
+O  O O
+OOR BO
+OOSB O
+OOOOOO
+
+Push_East
+OOOOOO
+O    O
+O  O O
+OO RBO
+OOSB O
+OOOOOO
+
+Pull_West
+OOOOOO
+O    O
+O  O O
+OORB O
+OOSB O
+OOOOOO
+
+Push_North
+OOOOOO
+O    O
+O RO O
+OO B O
+OOSB O
+OOOOOO
+
+Push_West
+OOOOOO
+O    O
+OR O O
+OO B O
+OOSB O
+OOOOOO
+
+Push_North
+OOOOOO
+OR   O
+O  O O
+OO B O
+OOSB O
+OOOOOO
+
+Push_East
+OOOOOO
+O R  O
+O  O O
+OO B O
+OOSB O
+OOOOOO
+
+Push_East
+OOOOOO
+O  R O
+O  O O
+OO B O
+OOSB O
+OOOOOO
+
+Push_East
+OOOOOO
+O   RO
+O  O O
+OO B O
+OOSB O
+OOOOOO
+
+Push_South
+OOOOOO
+O    O
+O  ORO
+OO B O
+OOSB O
+OOOOOO
+
+Push_South
+OOOOOO
+O    O
+O  O O
+OO BRO
+OOSB O
+OOOOOO
+
+Push_West
+OOOOOO
+O    O
+O  O O
+OOBR O
+OOSB O
+OOOOOO
+
+Push_East
+OOOOOO
+O    O
+O  O O
+OOB RO
+OOSB O
+OOOOOO
+
+Push_South
+OOOOOO
+O    O
+O  O O
+OOB  O
+OOSBRO
+OOOOOO
+
+Push_West
+OOOOOO
+O    O
+O  O O
+OOB  O
+OOBR O
+OOOOOO
+
+Push_East
+OOOOOO
+O    O
+O  O O
+OOB  O
+OOBSRO
+OOOOOO
+
+Push_North
+OOOOOO
+O    O
+O  O O
+OOB RO
+OOBS O
+OOOOOO
+
+Push_North
+OOOOOO
+O    O
+O  ORO
+OOB  O
+OOBS O
+OOOOOO
+
+Push_North
+OOOOOO
+O   RO
+O  O O
+OOB  O
+OOBS O
+OOOOOO
+
+Push_West
+OOOOOO
+O  R O
+O  O O
+OOB  O
+OOBS O
+OOOOOO
+
+Push_West
+OOOOOO
+O R  O
+O  O O
+OOB  O
+OOBS O
+OOOOOO
+
+Push_West
+OOOOOO
+OR   O
+O  O O
+OOB  O
+OOBS O
+OOOOOO
+
+Push_South
+OOOOOO
+O    O
+OR O O
+OOB  O
+OOBS O
+OOOOOO
+
+Push_East
+OOOOOO
+O    O
+O RO O
+OOB  O
+OOBS O
+OOOOOO
+
+Pull_North
+OOOOOO
+O R  O
+O BO O
+OO   O
+OOBS O
+OOOOOO
+
+Push_East
+OOOOOO
+O  R O
+O BO O
+OO   O
+OOBS O
+OOOOOO
+
+Push_East
+OOOOOO
+O   RO
+O BO O
+OO   O
+OOBS O
+OOOOOO
+
+Push_South
+OOOOOO
+O    O
+O BORO
+OO   O
+OOBS O
+OOOOOO
+
+Push_South
+OOOOOO
+O    O
+O BO O
+OO  RO
+OOBS O
+OOOOOO
+
+Push_West
+OOOOOO
+O    O
+O BO O
+OO R O
+OOBS O
+OOOOOO
+
+Push_West
+OOOOOO
+O    O
+O BO O
+OOR  O
+OOBS O
+OOOOOO
+
+Push_North
+OOOOOO
+O B  O
+O RO O
+OO   O
+OOBS O
+OOOOOO
+
+Push_West
+OOOOOO
+O B  O
+OR O O
+OO   O
+OOBS O
+OOOOOO
+
+Push_North
+OOOOOO
+ORB  O
+O  O O
+OO   O
+OOBS O
+OOOOOO
+
+Push_East
+OOOOOO
+O RB O
+O  O O
+OO   O
+OOBS O
+OOOOOO
+
+Push_East
+OOOOOO
+O  RBO
+O  O O
+OO   O
+OOBS O
+OOOOOO
+
+Push_West
+OOOOOO
+O R BO
+O  O O
+OO   O
+OOBS O
+OOOOOO
+
+Push_West
+OOOOOO
+OR  BO
+O  O O
+OO   O
+OOBS O
+OOOOOO
+
+Push_South
+OOOOOO
+O   BO
+OR O O
+OO   O
+OOBS O
+OOOOOO
+
+Push_East
+OOOOOO
+O   BO
+O RO O
+OO   O
+OOBS O
+OOOOOO
+
+Push_South
+OOOOOO
+O   BO
+O  O O
+OOR  O
+OOBS O
+OOOOOO
+
+Push_East
+OOOOOO
+O   BO
+O  O O
+OO R O
+OOBS O
+OOOOOO
+
+Push_East
+OOOOOO
+O   BO
+O  O O
+OO  RO
+OOBS O
+OOOOOO
+
+Push_South
+OOOOOO
+O   BO
+O  O O
+OO   O
+OOBSRO
+OOOOOO
+
+Push_West
+OOOOOO
+O   BO
+O  O O
+OO   O
+OOBR O
+OOOOOO
+
+Pull_East
+OOOOOO
+O   BO
+O  O O
+OO   O
+OOSBRO
+OOOOOO
+
+Push_North
+OOOOOO
+O   BO
+O  O O
+OO  RO
+OOSB O
+OOOOOO
+
+Push_West
+OOOOOO
+O   BO
+O  O O
+OO R O
+OOSB O
+OOOOOO
+
+Push_West
+OOOOOO
+O   BO
+O  O O
+OOR  O
+OOSB O
+OOOOOO
+
+Push_South
+OOOOOO
+O   BO
+O  O O
+OO   O
+OORB O
+OOOOOO
+
+Push_East
+OOOOOO
+O   BO
+O  O O
+OO   O
+OOSRBO
+OOOOOO
+
+Push_West
+OOOOOO
+O   BO
+O  O O
+OO   O
+OORSBO
+OOOOOO
+
+Push_North
+OOOOOO
+O   BO
+O  O O
+OOR  O
+OOSSBO
+OOOOOO
+
+Push_East
+OOOOOO
+O   BO
+O  O O
+OO R O
+OOSSBO
+OOOOOO
+
+Push_East
+OOOOOO
+O   BO
+O  O O
+OO  RO
+OOSSBO
+OOOOOO
+
+Push_North
+OOOOOO
+O   BO
+O  ORO
+OO   O
+OOSSBO
+OOOOOO
+
+Pull_South
+OOOOOO
+O    O
+O  OBO
+OO  RO
+OOSSBO
+OOOOOO
+
+Push_West
+OOOOOO
+O    O
+O  OBO
+OO R O
+OOSSBO
+OOOOOO
+
+Push_West
+OOOOOO
+O    O
+O  OBO
+OOR  O
+OOSSBO
+OOOOOO
+
+Push_South
+OOOOOO
+O    O
+O  OBO
+OO   O
+OORSBO
+OOOOOO
+
+Push_East
+OOOOOO
+O    O
+O  OBO
+OO   O
+OOSRBO
+OOOOOO
+
+Pull_West
+OOOOOO
+O    O
+O  OBO
+OO   O
+OORB O
+OOOOOO
+
+Push_North
+OOOOOO
+O    O
+O  OBO
+OOR  O
+OOSB O
+OOOOOO
+
+Push_East
+OOOOOO
+O    O
+O  OBO
+OO R O
+OOSB O
+OOOOOO
+
+Push_East
+OOOOOO
+O    O
+O  OBO
+OO  RO
+OOSB O
+OOOOOO
+
+Pull_South
+OOOOOO
+O    O
+O  O O
+OO  BO
+OOSBRO
+OOOOOO
+
+Push_West
+OOOOOO
+O    O
+O  O O
+OO  BO
+OOBR O
+OOOOOO
+
+Push_East
+OOOOOO
+O    O
+O  O O
+OO  BO
+OOBSRO
+OOOOOO
+
+Push_North
+OOOOOO
+O    O
+O  OBO
+OO  RO
+OOBS O
+OOOOOO
+
+Push_West
+OOOOOO
+O    O
+O  OBO
+OO R O
+OOBS O
+OOOOOO
+
+Push_West
+OOOOOO
+O    O
+O  OBO
+OOR  O
+OOBS O
+OOOOOO
+
+Pull_North
+OOOOOO
+O    O
+O ROBO
+OOB  O
+OOSS O
+OOOOOO
+
+Pull_North
+OOOOOO
+O R  O
+O BOBO
+OO   O
+OOSS O
+OOOOOO
+
+Push_East
+OOOOOO
+O  R O
+O BOBO
+OO   O
+OOSS O
+OOOOOO
+
+Push_East
+OOOOOO
+O   RO
+O BOBO
+OO   O
+OOSS O
+OOOOOO
+
+Push_South
+OOOOOO
+O    O
+O BORO
+OO  BO
+OOSS O
+OOOOOO
+
+Push_South
+OOOOOO
+O    O
+O BO O
+OO  RO
+OOSSBO
+OOOOOO
+
+Push_West
+OOOOOO
+O    O
+O BO O
+OO R O
+OOSSBO
+OOOOOO
+
+Push_West
+OOOOOO
+O    O
+O BO O
+OOR  O
+OOSSBO
+OOOOOO
+
+Pull_South
+OOOOOO
+O    O
+O  O O
+OOB  O
+OORSBO
+OOOOOO
+
+Push_East
+OOOOOO
+O    O
+O  O O
+OOB  O
+OOSRBO
+OOOOOO
+
+Pull_West
+OOOOOO
+O    O
+O  O O
+OOB  O
+OORB O
+OOOOOO
+
+Push_North
+OOOOOO
+O    O
+O BO O
+OOR  O
+OOSB O
+OOOOOO
+
+Push_East
+OOOOOO
+O    O
+O BO O
+OO R O
+OOSB O
+OOOOOO
+
+Push_East
+OOOOOO
+O    O
+O BO O
+OO  RO
+OOSB O
+OOOOOO
+
+Push_North
+OOOOOO
+O    O
+O BORO
+OO   O
+OOSB O
+OOOOOO
+
+Push_North
+OOOOOO
+O   RO
+O BO O
+OO   O
+OOSB O
+OOOOOO
+
+Push_West
+OOOOOO
+O  R O
+O BO O
+OO   O
+OOSB O
+OOOOOO
+
+Push_West
+OOOOOO
+O R  O
+O BO O
+OO   O
+OOSB O
+OOOOOO
+
+Push_South
+OOOOOO
+O    O
+O RO O
+OOB  O
+OOSB O
+OOOOOO
+
+Push_South
+OOOOOO
+O    O
+O  O O
+OOR  O
+OOBB O
+OOOOOO
+
+Push_West
+OOOOOO
+OBR  O
+O BO O
+OO   O
+OOSS O
+OOOOOO
+
+Push_South
+OOOOOO
+OB   O
+O RO O
+OOB  O
+OOSS O
+OOOOOO
+
+Push_South
+OOOOOO
+OB   O
+O  O O
+OOR  O
+OOBS O
+OOOOOO
+
+Push_North
+OOOOOO
+OB   O
+O RO O
+OO   O
+OOBS O
+OOOOOO
+
+Push_North
+OOOOOO
+OBR  O
+O  O O
+OO   O
+OOBS O
+OOOOOO
+
+Pull_East
+OOOOOO
+O BR O
+O  O O
+OO   O
+OOBS O
+OOOOOO
+
+Push_East
+OOOOOO
+O B RO
+O  O O
+OO   O
+OOBS O
+OOOOOO
+
+Push_South
+OOOOOO
+O B  O
+O  ORO
+OO   O
+OOBS O
+OOOOOO
+
+Push_South
+OOOOOO
+O B  O
+O  O O
+OO  RO
+OOBS O
+OOOOOO
+
+Push_West
+OOOOOO
+O B  O
+O  O O
+OO R O
+OOBS O
+OOOOOO
+
+Push_West
+OOOOOO
+O B  O
+O  O O
+OOR  O
+OOBS O
+OOOOOO
+
+Push_North
+OOOOOO
+O B  O
+O RO O
+OO   O
+OOBS O
+OOOOOO
+
+Pull_South
+OOOOOO
+O    O
+O BO O
+OOR  O
+OOBS O
+OOOOOO
+
+Push_East
+OOOOOO
+O    O
+O BO O
+OO R O
+OOBS O
+OOOOOO
+
+Push_South
+OOOOOO
+O    O
+O BO O
+OO   O
+OOBR O
+OOOOOO
+
+Pull_East
+OOOOOO
+O    O
+O BO O
+OO   O
+OOSBRO
+OOOOOO
+
+Push_North
+OOOOOO
+O    O
+O BO O
+OO  RO
+OOSB O
+OOOOOO
+
+Push_North
+OOOOOO
+O    O
+O BORO
+OO   O
+OOSB O
+OOOOOO
+
+Push_North
+OOOOOO
+O   RO
+O BO O
+OO   O
+OOSB O
+OOOOOO
+
+Push_West
+OOOOOO
+O  R O
+O BO O
+OO   O
+OOSB O
+OOOOOO
+
+Push_West
+OOOOOO
+O R  O
+O BO O
+OO   O
+OOSB O
+OOOOOO
+
+Push_South
+OOOOOO
+O    O
+O RO O
+OOB  O
+OOSB O
+OOOOOO
+
+Push_South
+OOOOOO
+O    O
+O  O O
+OOR  O
+OOBB O
+OOOOOO
+
+Push_West
+OOOOOO
+OBR  O
+O BO O
+OO   O
+OOSS O
+OOOOOO
+
+Push_South
+OOOOOO
+OB   O
+O RO O
+OOB  O
+OOSS O
+OOOOOO
+
+Push_South
+OOOOOO
+OB   O
+O  O O
+OOR  O
+OOBS O
+OOOOOO
+
+Push_North
+OOOOOO
+OB   O
+O RO O
+OO   O
+OOBS O
+OOOOOO
+
+Push_North
+OOOOOO
+OBR  O
+O  O O
+OO   O
+OOBS O
+OOOOOO
+
+Pull_East
+OOOOOO
+O BR O
+O  O O
+OO   O
+OOBS O
+OOOOOO
+
+Push_East
+OOOOOO
+O B RO
+O  O O
+OO   O
+OOBS O
+OOOOOO
+
+Push_South
+OOOOOO
+O B  O
+O  ORO
+OO   O
+OOBS O
+OOOOOO
+
+Push_South
+OOOOOO
+O B  O
+O  O O
+OO  RO
+OOBS O
+OOOOOO
+
+Push_West
+OOOOOO
+O B  O
+O  O O
+OO R O
+OOBS O
+OOOOOO
+
+Push_West
+OOOOOO
+O B  O
+O  O O
+OOR  O
+OOBS O
+OOOOOO
+
+Push_North
+OOOOOO
+O B  O
+O RO O
+OO   O
+OOBS O
+OOOOOO
+
+Pull_South
+OOOOOO
+O    O
+O BO O
+OOR  O
+OOBS O
+OOOOOO
+
+Push_East
+OOOOOO
+O    O
+O BO O
+OO R O
+OOBS O
+OOOOOO
+
+Push_South
+OOOOOO
+O    O
+O BO O
+OO   O
+OOBR O
+OOOOOO
+
+Pull_East
+OOOOOO
+O    O
+O BO O
+OO   O
+OOSBRO
+OOOOOO
+
+Push_North
+OOOOOO
+O    O
+O BO O
+OO  RO
+OOSB O
+OOOOOO
+
+Push_North
+OOOOOO
+O    O
+O BORO
+OO   O
+OOSB O
+OOOOOO
+
+Push_North
+OOOOOO
+O   RO
+O BO O
+OO   O
+OOSB O
+OOOOOO
+
+Push_West
+OOOOOO
+O  R O
+O BO O
+OO   O
+OOSB O
+OOOOOO
+
+Push_West
+OOOOOO
+O R  O
+O BO O
+OO   O
+OOSB O
+OOOOOO
+
+Push_South
+OOOOOO
+O    O
+O RO O
+OOB  O
+OOSB O
+OOOOOO
+
+Push_South
+OOOOOO
+O    O
+O  O O
+OOR  O
+OOBB O
+OOOOOO
+

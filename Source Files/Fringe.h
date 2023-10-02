@@ -1,74 +1,92 @@
 #pragma once
-
+#include <deque>
 #include <queue>
 #include <stack>
+#include <string>
+#include <iostream>
 
-#define f_QUEUE
-//#define f_STACK
+#include "Board.h"
+class GameState;
 
-// implement the fringe as a template class
-// necessary for hiding the implementation of the fringe
-// from the search algorithm
-template <typename T>
-class Fringe
+// implement the BFS fringe 
+template <typename T1>
+class FIFO
 {
 public:
-	Fringe(T* root) {
+	FIFO() {}
+	~FIFO() {}
 
-		#ifdef f_QUEUE
-		m_queue.push(root);
-		#endif // f_QUEUE
+	void insert(T1* node) {
+		m_queue.emplace_back(node);
 
-		#ifdef f_STACK
-		m_stack.push(root);
-		#endif // f_STACK
-	}
-	~Fringe() {}
-
-	void push(T* node) {
-		#ifdef f_QUEUE
-		m_queue.push(node);
-		#endif // f_QUEUE
-
-		#ifdef f_STACK
-		m_stack.push(node);
-		#endif // f_STACK
+		if (m_queue.size() % 10000 == 0) {
+			std::cout << "Fringe size: " << m_queue.size() << '\n';
+		}
 	}
 	
-	T* pop() {
-		T* node;
-
-		#ifdef f_QUEUE
-		node = m_queue.front();
-		m_queue.pop();
-		#endif // f_QUEUE
-
-		#ifdef f_STACK
-		node = m_stack.pop();
-		#endif // f_STACK
-
+	T1* extract() {
+		T1* node = m_queue.front();
+		m_queue.pop_front();
 		return node;
 	}
 
-	bool is_empty() {
-		#ifdef f_QUEUE
-		return m_queue.empty();
-		#endif // f_QUEUE
+	bool contains(T1* node) {
+		auto compare_nodes = [node](T1* other) { return *node == *other; };
+		return std::find_if(m_queue.begin(), m_queue.end(), compare_nodes) != m_queue.end();
+	}
 
-		#ifdef f_STACK
-		return m_stack.empty();
-		#endif // f_STACK
+	bool is_empty() {
+		return m_queue.empty();
+	}
+
+	std::string get_type() {
+		return std::string("Queue");
 	}
 
 private:
-#ifdef f_QUEUE
-	// implement the fringe as a queue
-	std::queue<T*> m_queue;
-#endif // f_QUEUE
 
-#ifdef f_STACK
-	// implement the fringe as a stack
-	std::stack<T*> m_stack;
-#endif // f_STACK
+	// implement the fringe as a queue
+	std::deque<T1*> m_queue;
 };
 
+// implement the DFS fringe 
+template <typename T2>
+class LIFO
+{
+public:
+	LIFO() {}
+	~LIFO() {}
+
+	void insert(T2* node) {
+		m_stack.push(node);
+
+		if (m_stack.size() % 10000 == 0) {
+			std::cout << "Fringe size: " << m_stack.size() << '\n';
+		}
+	}
+
+	T2* extract() {
+		T2* node = m_stack.top();
+		m_stack.pop();
+		return node;
+	}
+
+	bool contains(T2* node) {
+		// stack allows no iteration through data structure
+		// we only have access to the top element
+		return false;
+	}
+
+	bool is_empty() {
+		return m_stack.empty();
+	}
+
+	std::string get_type() {
+		return std::string("Stack");
+	}
+
+private:
+
+	// implement the fringe as a stack
+	std::stack<T2*> m_stack;
+};

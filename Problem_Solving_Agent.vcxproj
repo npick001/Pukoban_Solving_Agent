@@ -129,12 +129,14 @@
   <ItemGroup>
     <ClInclude Include="Source Files\Board.h" />
     <ClInclude Include="Source Files\Fringe.h" />
+    <ClInclude Include="Source Files\PriorityQueue.h" />
     <ClInclude Include="Source Files\ProblemSolvingAgent.h" />
     <ClInclude Include="Source Files\State.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Source Files\Board.cpp" />
     <ClCompile Include="Source Files\main.cpp" />
+    <ClCompile Include="Source Files\PriorityQueue.cpp" />
     <ClCompile Include="Source Files\ProblemSolvingAgent.cpp" />
     <ClCompile Include="Source Files\State.cpp" />
   </ItemGroup>

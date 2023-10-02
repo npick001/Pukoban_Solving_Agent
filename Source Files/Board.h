@@ -42,17 +42,24 @@ private:
 
 class GameState : public State {
 public:
-	
-	GameState(GameState* other);
+	GameState();
+	GameState(const GameState& other);
 	~GameState() = default;
 
 	std::vector<Board::CellValues> board;
 	std::vector<int> box_positions;
 	std::vector<int> storage_positions;
+	std::vector<int> obstacle_positions;
 	int robot_position;
 	int board_width;
 
-private:
+	// make a print function that takes into account the board having
+	// empty spaces for the boxes, storages, and robot but that needs to be filled in
+	// when printing the board
+	void print() override;
+	std::string to_string() override;
+
 	GameState& operator=(const GameState& other);
 	bool operator==(const GameState& other);
+private:
 };

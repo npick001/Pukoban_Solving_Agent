@@ -1,0 +1,14 @@
+﻿  Board.cpp
+  main.cpp
+  PriorityQueue.cpp
+  ProblemSolvingAgent.cpp
+C:\Users\Nick\source\repos\npick001\Pukoban_Solving_Agent\Source Files\ProblemSolvingAgent.cpp(166,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Nick\source\repos\npick001\Pukoban_Solving_Agent\Source Files\ProblemSolvingAgent.cpp(255,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Nick\source\repos\npick001\Pukoban_Solving_Agent\Source Files\ProblemSolvingAgent.cpp(348,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Nick\source\repos\npick001\Pukoban_Solving_Agent\Source Files\ProblemSolvingAgent.cpp(440,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Nick\source\repos\npick001\Pukoban_Solving_Agent\Source Files\ProblemSolvingAgent.cpp(538,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Nick\source\repos\npick001\Pukoban_Solving_Agent\Source Files\ProblemSolvingAgent.cpp(630,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Nick\source\repos\npick001\Pukoban_Solving_Agent\Source Files\ProblemSolvingAgent.cpp(714,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  State.cpp
+  Generating Code...
+  Problem_Solving_Agent.vcxproj -> C:\Users\Nick\Source\Repos\npick001\Pukoban_Solving_Agent\x64\Debug\Problem_Solving_Agent.exe

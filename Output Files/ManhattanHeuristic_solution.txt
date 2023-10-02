@@ -1,0 +1,262 @@
+Solution path:
+Push_South
+OOOOOO
+OSO BO
+O O SO
+O OB O
+OR  SO
+O B  O
+OOOOOO
+
+Push_South
+OOOOOO
+OSO BO
+O O SO
+O OB O
+O   SO
+ORB  O
+OOOOOO
+
+Push_East
+OOOOOO
+OSO BO
+O O SO
+O OB O
+O   SO
+O RB O
+OOOOOO
+
+Push_East
+OOOOOO
+OSO BO
+O O SO
+O OB O
+O   SO
+O  RBO
+OOOOOO
+
+Push_North
+OOOOOO
+OSO BO
+O O SO
+O OB O
+O  RSO
+O   BO
+OOOOOO
+
+Push_North
+OOOOOO
+OSO BO
+O OBSO
+O OR O
+O   SO
+O   BO
+OOOOOO
+
+Push_East
+OOOOOO
+OSO BO
+O OBSO
+O O RO
+O   SO
+O   BO
+OOOOOO
+
+Push_South
+OOOOOO
+OSO BO
+O OBSO
+O O  O
+O   RO
+O   BO
+OOOOOO
+
+Pull_North
+OOOOOO
+OSO BO
+O OBSO
+O O RO
+O   BO
+O    O
+OOOOOO
+
+Push_North
+OOOOOO
+OSO BO
+O OBRO
+O O  O
+O   BO
+O    O
+OOOOOO
+
+Pull_South
+OOOOOO
+OSO  O
+O OBBO
+O O RO
+O   BO
+O    O
+OOOOOO
+
+Push_West
+OOOOOO
+OSO  O
+O OBBO
+O OR O
+O   BO
+O    O
+OOOOOO
+
+Pull_South
+OOOOOO
+OSO  O
+O O BO
+O OB O
+O  RBO
+O    O
+OOOOOO
+
+Pull_South
+OOOOOO
+OSO  O
+O O BO
+O O  O
+O  BBO
+O  R O
+OOOOOO
+
+Push_West
+OOOOOO
+OSO  O
+O O BO
+O O  O
+O  BBO
+O R  O
+OOOOOO
+
+Push_North
+OOOOOO
+OSO  O
+O O BO
+O O  O
+O RBBO
+O    O
+OOOOOO
+
+Pull_West
+OOOOOO
+OSO  O
+O O BO
+O O  O
+ORB BO
+O    O
+OOOOOO
+
+Push_South
+OOOOOO
+OSO  O
+O O BO
+O O  O
+O B BO
+OR   O
+OOOOOO
+
+Push_East
+OOOOOO
+OSO  O
+O O BO
+O O  O
+O B BO
+O R  O
+OOOOOO
+
+Push_East
+OOOOOO
+OSO  O
+O O BO
+O O  O
+O B BO
+O  R O
+OOOOOO
+
+Push_North
+OOOOOO
+OSO  O
+O O BO
+O O  O
+O BRBO
+O    O
+OOOOOO
+
+Push_West
+OOOOOO
+OSO  O
+O O BO
+O O  O
+OBR BO
+O    O
+OOOOOO
+
+Push_East
+OOOOOO
+OSO  O
+O O BO
+O O  O
+OB RBO
+O    O
+OOOOOO
+
+Push_South
+OOOOOO
+OSO  O
+O O BO
+O O  O
+OB  BO
+O  R O
+OOOOOO
+
+Push_West
+OOOOOO
+OSO  O
+O O BO
+O O  O
+OB  BO
+O R  O
+OOOOOO
+
+Push_West
+OOOOOO
+OSO  O
+O O BO
+O O  O
+OB  BO
+OR   O
+OOOOOO
+
+Push_North
+OOOOOO
+OSO  O
+O O BO
+OBO  O
+OR  BO
+O    O
+OOOOOO
+
+Push_North
+OOOOOO
+OSO  O
+OBO BO
+ORO  O
+O   BO
+O    O
+OOOOOO
+
+Push_North
+OOOOOO
+OBO  O
+ORO BO
+O O  O
+O   BO
+O    O
+OOOOOO
+
